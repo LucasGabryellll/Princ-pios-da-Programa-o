@@ -21,11 +21,13 @@ CERTO:
 
 ### Back-end
 
+```
 users {
     name,
     email,
     password
 }
+```
 
 CrudController (index, show, create, update, delete):
 
