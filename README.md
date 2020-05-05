@@ -38,6 +38,7 @@ keep is simple and stupid.
 ## Exemplo:
 
 - Colocar coisas difíceis de entender. 
+- Variáveis que não fazem sentido para os outros, Só para você.
 
 - ERRADO:
 
