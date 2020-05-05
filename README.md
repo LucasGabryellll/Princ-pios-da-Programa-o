@@ -17,7 +17,7 @@ CERTO:
 
 ### Front-end
 
-<Table columns={[NOME]} data={[]} parseData={(columns => column.name == 'Nome')} sort />
+```<Table columns={[NOME]} data={[]} parseData={(columns => column.name == 'Nome')} sort />```
 
 ### Back-end
 
