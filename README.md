@@ -5,8 +5,11 @@
 Don't Repeat Youself.
 "Não se repita".
 
-ERRADO: Não repetir código.
-CERTO: Não repetir regra de negócio.
+ERRADO: 
+- Não repetir código.
+
+CERTO: 
+- Não repetir regra de negócio.
 
 ## Exemplo: 
 
@@ -30,8 +33,8 @@ CrudController (index, show, create, update, delete):
 
 # KISS
 
-keep is simple and stupid.
-"Mantenha o Código simples e estúpido".
+- keep is simple and stupid.
+- "Mantenha o Código simples e estúpido".
 
 - Códificar algo que qualquer um entenda!
 
@@ -63,5 +66,5 @@ function showUserInformation(users) {
 
 # YAGNI
 
-You ain't gonna need it.
-"Você não irá precisar disso".
+- You ain't gonna need it
+- "Você não irá precisar disso"
