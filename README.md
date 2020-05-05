@@ -22,8 +22,8 @@ CERTO:
 ### Back-end
 
 users {
-    name
-    email
+    name,
+    email,
     password
 }
 
